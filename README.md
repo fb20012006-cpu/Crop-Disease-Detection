@@ -21,6 +21,7 @@ CropDisease/
         ├── main.dart                       # Flutter UI
         └── services/
             └── disease_api_service.dart    # API service
+
 ```
 
 ## How to Run
